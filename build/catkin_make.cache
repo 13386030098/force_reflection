@@ -1,0 +1,2 @@
+ati:force_msg:reflection
+-DCATKIN_DEVEL_PREFIX=/home/zzz/force_reflection/devel -DCMAKE_INSTALL_PREFIX=/home/zzz/force_reflection/install -G Unix Makefiles

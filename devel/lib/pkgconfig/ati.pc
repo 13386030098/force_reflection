@@ -1,0 +1,8 @@
+prefix=/home/zzz/force_reflection/devel
+
+Name: ati
+Description: Description of ati
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zzz/force_reflection/devel/lib 
+Requires: 

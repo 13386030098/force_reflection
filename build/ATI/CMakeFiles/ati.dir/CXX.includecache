@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzz/force_reflection/src/ATI/src/ati.cpp
+arpa/inet.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netdb.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+

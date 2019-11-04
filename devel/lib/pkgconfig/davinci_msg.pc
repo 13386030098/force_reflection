@@ -1,0 +1,8 @@
+prefix=/home/zzz/force_reflection/devel
+
+Name: davinci_msg
+Description: Description of davinci_msg
+Version: 0.0.0
+Cflags: -I/home/zzz/force_reflection/devel/include -I/home/zzz/force_reflection/src/force_msg/include
+Libs: -L/home/zzz/force_reflection/devel/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime

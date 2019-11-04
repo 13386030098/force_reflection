@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ati.dir/src/ati.cpp.o  -o /home/zzz/force_reflection/devel/lib/ATI/ati -rdynamic 
