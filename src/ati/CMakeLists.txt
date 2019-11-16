@@ -21,7 +21,7 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
   "/home/zzz/force_reflection/src/ATI/include/ATI"
 )
-add_executable(ati src/ati.cpp)
+add_executable(ati src/main.cpp)
 target_link_libraries(ati  ${catkin_LIBRARIES} ${Boost_LIBRARIES} "/usr/lib/libdhd.so.3" "/usr/lib/libdrd.so.3")
 
 
